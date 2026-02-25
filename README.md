@@ -71,3 +71,22 @@ Architecture diagrams and technical specifications will be added here.
 | IBEV Core | Main vault contract | Planned |
 | [TBD] | [TBD] | Planned |
 
+## 🗺️ Roadmap
+
+**[Draft]**
+
+- [ ] Phase 1: Research & Design
+  - [ ] Intent structure definition
+  - [ ] Architecture design
+  - [ ] Security model
+- [ ] Phase 2: Development
+  - [ ] Smart contract implementation
+  - [ ] Testing framework
+- [ ] Phase 3: Testing & Audit
+- [ ] Phase 4: Deployment
+
+## 🤝 Contributing
+
+**[Guidelines Coming Soon]**
+
+Contributions are welcome! More details on how to contribute will be provided as the project develops.
