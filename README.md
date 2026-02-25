@@ -39,3 +39,35 @@ IBEV aims to revolutionize transaction execution by allowing users to express th
 1. User submits intent
 2. [Process flow to be documented]
 3. Execution and settlement
+
+## 🏗️ Architecture
+
+**[Under Development]**
+
+Architecture diagrams and technical specifications will be added here.
+
+## 🛠️ Installation
+
+**[Coming Soon]**
+
+```bash
+# Installation instructions will be provided
+```
+
+## 📖 Usage
+
+**[Documentation Pending]**
+
+```solidity
+// Example code snippets will be added
+```
+
+## 📜 Smart Contracts
+
+**[To Be Documented]**
+
+| Contract | Description | Status |
+|----------|-------------|--------|
+| IBEV Core | Main vault contract | Planned |
+| [TBD] | [TBD] | Planned |
+
