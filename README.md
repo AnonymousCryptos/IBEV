@@ -90,3 +90,26 @@ Architecture diagrams and technical specifications will be added here.
 **[Guidelines Coming Soon]**
 
 Contributions are welcome! More details on how to contribute will be provided as the project develops.
+
+## 🔐 Security
+
+**[Security Policy To Be Established]**
+
+Security is our top priority. Audit reports and security policies will be published here.
+
+## 📄 License
+
+**[To Be Determined]**
+
+## 📬 Contact
+
+**[Contact Information To Be Added]**
+
+- Documentation: [Coming Soon]
+- Discord: [TBD]
+- Twitter: [TBD]
+
+---
+
+**Disclaimer**: This is an experimental project under active development. Use at your own risk.
+
