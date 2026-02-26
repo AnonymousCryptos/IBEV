@@ -1,6 +1,6 @@
 # IBEV (Intent-Based Execution Vault)
 
-A vault where users submit intents instead of transactions.
+A smart contract vault where users submit intents instead of explicit transactions, enabling simplified and optimized on-chain interactions.
 
 > ⚠️ **NOTE**: This project is currently in the early stage of brainstorming. This README serves as a placeholder and will be updated as the project evolves.
 
@@ -22,7 +22,7 @@ A vault where users submit intents instead of transactions.
 
 **[Coming Soon]**
 
-IBEV aims to revolutionize transaction execution by allowing users to express their intentions rather than crafting explicit transactions.
+IBEV aims to revolutionize transaction execution by allowing users to express their intentions rather than crafting explicit transactions. This approach simplifies user experience while enabling solvers to optimize execution strategies.
 
 ## ✨ Key Features
 
@@ -30,15 +30,18 @@ IBEV aims to revolutionize transaction execution by allowing users to express th
 
 - Intent-based transaction submission
 - Automated execution optimization
-- [More features to be added]
+- Solver network integration
+- Gas-efficient execution
+- Cross-chain intent support (future)
 
 ## 🔄 How It Works
 
 **[Documentation In Progress]**
 
-1. User submits intent
-2. [Process flow to be documented]
-3. Execution and settlement
+1. User submits intent to the vault
+2. Solvers compete to fulfill the intent optimally
+3. The best execution path is selected
+4. Transaction executed and settled on-chain
 
 ## 🏗️ Architecture
 
