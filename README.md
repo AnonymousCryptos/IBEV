@@ -47,7 +47,37 @@ IBEV aims to revolutionize transaction execution by allowing users to express th
 
 **[Under Development]**
 
-Architecture diagrams and technical specifications will be added here.
+Detailed architecture diagrams and technical specifications will be added here.
+
+## 📜 Smart Contracts
+
+**[To Be Documented]**
+
+| Contract | Description | Status |
+|----------|-------------|--------|
+| IntentVault | Main vault for intent storage | Planned |
+| SolverRegistry | Manages approved solvers | Planned |
+| ExecutionEngine | Handles intent execution | Planned |
+
+## 🗺️ Roadmap
+
+**[Draft]**
+
+- [ ] Phase 1: Research & Design
+  - [ ] Intent specification format
+  - [ ] Architecture design
+  - [ ] Security model design
+  - [ ] Solver mechanism design
+- [ ] Phase 2: Development
+  - [ ] Core smart contract implementation
+  - [ ] Solver interface development
+  - [ ] Testing framework setup
+- [ ] Phase 3: Testing & Audit
+  - [ ] Internal testing
+  - [ ] External security audit
+- [ ] Phase 4: Deployment & Launch
+  - [ ] Testnet deployment
+  - [ ] Mainnet launch
 
 ## 🛠️ Installation
 
