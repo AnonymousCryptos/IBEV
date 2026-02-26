@@ -122,13 +122,19 @@ Detailed architecture diagrams and technical specifications will be added here.
 
 **[Guidelines Coming Soon]**
 
-Contributions are welcome! More details on how to contribute will be provided as the project develops.
+We welcome contributions from the community! As the project evolves, we'll be looking for help with:
+- Smart contract development
+- Security research
+- Documentation
+- Testing and QA
+
+Detailed contribution guidelines will be provided soon.
 
 ## 🔐 Security
 
 **[Security Policy To Be Established]**
 
-Security is our top priority. Audit reports and security policies will be published here.
+Security is our top priority. All smart contracts will undergo rigorous testing and professional audits. Security policies and audit reports will be published here.
 
 ## 📄 License
 
@@ -138,6 +144,7 @@ Security is our top priority. Audit reports and security policies will be publis
 
 **[Contact Information To Be Added]**
 
+- GitHub Issues: For bug reports and feature requests
 - Documentation: [Coming Soon]
 - Discord: [TBD]
 - Twitter: [TBD]
@@ -145,4 +152,3 @@ Security is our top priority. Audit reports and security policies will be publis
 ---
 
 **Disclaimer**: This is an experimental project under active development. Use at your own risk.
-
