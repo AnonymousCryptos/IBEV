@@ -134,7 +134,7 @@ Detailed contribution guidelines will be provided soon.
 
 **[Security Policy To Be Established]**
 
-Security is our top priority. All smart contracts will undergo rigorous testing and professional audits. Security policies and audit reports will be published here.
+Security is our top priority. All the smart contracts will undergo rigorous testing and professional audits. Security policies and audit reports will be published here as soon as we have them.
 
 ## 📄 License
 
