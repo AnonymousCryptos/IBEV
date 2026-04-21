@@ -22,7 +22,7 @@ A smart contract vault where users submit intents instead of explicit transactio
 
 **[Coming Soon]**
 
-IBEV aims to revolutionize transaction execution by allowing users to express their intentions rather than crafting explicit transactions. This approach simplifies user experience while enabling solvers to optimize execution strategies.
+IBEV aims to change how transactions are handled by letting users submit intents instead of constructing explicit transactions. This reduces complexity for users while allowing solvers to optimize how those intents are executed on-chain.
 
 ## ✨ Key Features
 
